@@ -1,0 +1,5 @@
+package com.sarmento.inventoryservice.controller;
+
+public class InventoryController {
+
+}

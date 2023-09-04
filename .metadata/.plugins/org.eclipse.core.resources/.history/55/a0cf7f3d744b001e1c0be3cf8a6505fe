@@ -1,0 +1,5 @@
+package com.sarmento.orderservice.service;
+
+public class OrderService {
+
+}

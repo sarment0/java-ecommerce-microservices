@@ -1,0 +1,5 @@
+package com.sarmento.productservice.controller;
+
+public class ProductController {
+
+}

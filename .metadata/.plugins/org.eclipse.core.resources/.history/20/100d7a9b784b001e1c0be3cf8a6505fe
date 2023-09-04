@@ -1,0 +1,5 @@
+package com.sarmento.inventoryservice.repository;
+
+public interface InventoryRepository {
+
+}

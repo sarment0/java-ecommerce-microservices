@@ -1,0 +1,5 @@
+package com.sarmento.inventoryservice.model;
+
+public class Inventory {
+
+}

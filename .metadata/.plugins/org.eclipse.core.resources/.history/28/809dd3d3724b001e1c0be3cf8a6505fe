@@ -1,0 +1,5 @@
+package com.sarmento.orderservice.dto;
+
+public class OrderRequest {
+
+}

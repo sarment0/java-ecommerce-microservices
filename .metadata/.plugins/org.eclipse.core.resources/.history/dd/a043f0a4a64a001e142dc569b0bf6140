@@ -1,0 +1,5 @@
+package com.sarmento.productservice.model;
+
+public class Product {
+
+}

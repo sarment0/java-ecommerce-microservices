@@ -1,0 +1,16 @@
+package com.sarmento.productservice.service;
+import org.springframework.stereotype.Service;
+import com.sarmento.productservice.dto.ProductRequest;
+import com.sarmento.productservice.model.Product;
+
+@Service
+public class ProductService {
+
+	public void createProduct(ProductRequest productRequest) {
+		Product product = Product.builder()
+				.name(productRequest.getName())
+				.description(productRequest.getDescription())
+				.price(productRequest.getPrice())
+				.build();
+	}
+}

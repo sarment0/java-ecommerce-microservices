@@ -1,0 +1,5 @@
+package com.sarmento.orderservice.controller;
+
+public class OrderController {
+
+}
